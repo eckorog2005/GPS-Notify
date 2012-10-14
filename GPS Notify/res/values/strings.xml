@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GPSNotifyActivity!</string>
+    <string name="app_name">GPS Notify</string>
+    <string name="Delete">Delete</string>
+    <string name="SaveItem">Save</string>
+    <string name="newLocation">Location Editor</string>
+    <string name="name">"Name : "</string>
+    <string name="newTask">Task Editor</string>
+    <string name="textName">"Task Name : "</string>
+    <string name="scheduleEditor">Schedule Editor</string>
+    <string name="selectTask">"Select Task : "</string>
+    <string name="occurrence">Occurrence : </string>
+    <string name="address">"Address : "</string>
+    <string name="timeLocation">Type of Schedule : </string>
+    <string name="location">Location : </string>
+    <string-array name="timeLoc_array">
+        <item>Time</item>
+        <item>Location</item>
+    </string-array>
+    <string name="local_service_started">Start</string>
+    <string name="local_service_stopped">Stop</string>
+    <string name="local_service_label">New Alarm</string>
+    <string name="local_service_connected">connected</string>
+    <string name="local_service_disconnected">disconnected</string>
+    <string name="explain">touch a location to select when loaded:</string>
+
+</resources>
