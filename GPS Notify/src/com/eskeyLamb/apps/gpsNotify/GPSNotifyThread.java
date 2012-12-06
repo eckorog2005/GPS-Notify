@@ -189,7 +189,6 @@ public class GPSNotifyThread extends Thread{
 	}
 	
 	private boolean isProviderEnable(){
-		android.location.Location location;
 		Criteria criteria = new Criteria();
 		criteria.setAccuracy(Criteria.ACCURACY_FINE);
 		criteria.setAltitudeRequired(false);
